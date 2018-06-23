@@ -4,6 +4,6 @@ def square_array(array)
     end
 end
 
-def new_numbers(square**2)
+def new_numbers(square_array)
 end
   #new_numbers = Array.new
