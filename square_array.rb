@@ -5,5 +5,5 @@ def square_array(array)
 end
 
 def new_numbers(square**2)
-  new_numbers = Array.new
-  
+end
+  #new_numbers = Array.new
